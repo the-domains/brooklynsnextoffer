@@ -1,0 +1,14 @@
+layout_spectrum: 0.4761314452625811
+typography_spectrum: 0.5473300707526505
+color:
+  brandStrength: 0.26559475040994585
+  lightness: 0.8191031822934747
+  saturation: 0.29816598747856915
+  rhythmicContrast: 0.9913388018030673
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: brooklynsnextoffer
