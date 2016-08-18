@@ -6,9 +6,9 @@ color:
   saturation: 0.29816598747856915
   rhythmicContrast: 0.9913388018030673
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#000000'
+    - '#FFFFFF'
+    - '#919994'
+    - '#34484C'
+    - '#DC5A34'
 name: brooklynsnextoffer
