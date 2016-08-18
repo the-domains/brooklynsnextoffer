@@ -10,6 +10,9 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/82fc8074-5251-4fa4-8754-2583d98d9582.jpg
 layout_spectrum: 0.4761314452625811
 author:
   name: Status Imperial
