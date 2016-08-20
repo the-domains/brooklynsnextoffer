@@ -1,19 +1,19 @@
-typography_spectrum: 0.5473300707526505
+layout_spectrum: 0.06699937395751476
+typography_spectrum: 0.567867977079004
 color:
-  brandStrength: 0.26559475040994585
-  lightness: 0.8191031822934747
-  saturation: 0.29816598747856915
-  rhythmicContrast: 0.9913388018030673
+  brandStrength: 0.6943516025785357
+  lightness: 0.30830089072696865
+  saturation: 0.6340249001514167
+  rhythmicContrast: 0.42834484460763633
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#DDDCC5'
+    - '#958976'
+    - '#611427'
+    - '#1D2326'
+    - '#6A6A61'
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/82fc8074-5251-4fa4-8754-2583d98d9582.jpg
-layout_spectrum: 0.4761314452625811
 author:
   name: Status Imperial
   email: info@statusimperial.com
