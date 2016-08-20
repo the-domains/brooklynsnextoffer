@@ -1,4 +1,3 @@
-layout_spectrum: 0.3702099460642785
 typography_spectrum: 0.21270320424810052
 color:
   brandStrength: 0.38228878821246326
@@ -14,6 +13,7 @@ color:
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/82fc8074-5251-4fa4-8754-2583d98d9582.jpg
+layout_spectrum: 0.3702099460642785
 author:
   name: Status Imperial
   email: info@statusimperial.com
@@ -21,5 +21,9 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a111e9a-e15c-46dc-a0b2-cbf99f57234c.jpg
 name: brooklynsnextoffer
+navigation:
+  - name: Bedford Brownstone Realty
+    id: 71336268-1033-485a-b018-791ecce23d5b
+    type: content
 title: Real Estate is Real Life!
 description: Everyday is a new epidsode
