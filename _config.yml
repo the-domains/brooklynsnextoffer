@@ -11,13 +11,12 @@ color:
     - '#4D4D4D'
     - '#333333'
 opengraph:
-  image: >-
-    https://the-grid-user-content.s3-us-west-2.amazonaws.com/82fc8074-5251-4fa4-8754-2583d98d9582.jpg
+  image: null
 layout_spectrum: 0.3702099460642785
 author:
-  name: Status Imperial
-  email: info@statusimperial.com
-  url: statusimperial.com
+  name: Brooklyn's Next Offer
+  email: infotv@brooklynsnextoffer.com
+  url: 'http://brooklynsnextoffer.com'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a111e9a-e15c-46dc-a0b2-cbf99f57234c.jpg
 name: brooklynsnextoffer
